@@ -1,0 +1,53 @@
+{
+  "asset_count": 1,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "Toad",
+      "id_type": "OBJECT",
+      "files": [
+        "Toad/Source/Toad.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Toad/Source/Toad_thumbnails/Object/toad.webp",
+        "hash": "SHA256:51b4df903b7e507956ac24572087fd2da9196ee03c3c0ac3b44bea2584d57feb"
+      },
+      "meta": {
+        "catalog_id": "a9e736b3-a2ef-48d0-ae37-b3135c4fe8c0",
+        "tags": [
+          "Toad",
+          "Mario",
+          "spikedspartan",
+          "blacboy"
+        ],
+        "author": "spikedspartan aka blacboy",
+        "description": "Sombrero Toad",
+        "license": "CC BY-NC",
+        "copyright": "CC BY-NC",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.6077656745910645,
+              3.215531349182129,
+              4.058866024017334
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "Toad/Source/Toad.blend",
+      "size_in_bytes": 140323,
+      "hash": "SHA256:5b9cf5c1ca788d8c11f4efb3b9916933eba8b2fec678563ee949eb44278a6e4e",
+      "blender_version": "5.2.45"
+    }
+  ]
+}
