@@ -1,5 +1,5 @@
 {
-  "asset_count": 1,
+  "asset_count": 3,
   "file_count": 1,
   "assets": [
     {
@@ -34,7 +34,85 @@
             "value": [
               1.6077656745910645,
               3.215531349182129,
-              4.058866024017334
+              4.383859634399414
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Toad_Bottoms",
+      "id_type": "OBJECT",
+      "files": [
+        "Toad/Source/Toad.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Toad/Source/Toad_thumbnails/Object/toad_bottoms.webp",
+        "hash": "SHA256:0dd9960edbdc1d61aeb59cd19fbd346a69dd9afbd872935cc5f3e61287235808"
+      },
+      "meta": {
+        "catalog_id": "a9e736b3-a2ef-48d0-ae37-b3135c4fe8c0",
+        "tags": [
+          "Toad",
+          "Mario",
+          "SpikedSpartan",
+          "BlacBoy"
+        ],
+        "author": "spikedspartan aka blacboy",
+        "description": "Sombrero Toad bottoms",
+        "license": "CC BY-NC",
+        "copyright": "CC BY-NC",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.746037483215332,
+              1.4968006610870361,
+              0.9612714648246765
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Toad_Jacket",
+      "id_type": "OBJECT",
+      "files": [
+        "Toad/Source/Toad.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Toad/Source/Toad_thumbnails/Object/toad_jacket.webp",
+        "hash": "SHA256:87ed32eaf3da6f7cda33b5bebe1cbdb3b741e69e438b915d697321eecd9f0262"
+      },
+      "meta": {
+        "catalog_id": "a9e736b3-a2ef-48d0-ae37-b3135c4fe8c0",
+        "tags": [
+          "Toad",
+          "Mario",
+          "SpikedSpartan",
+          "BlacBoy"
+        ],
+        "author": "spikedspartan aka blacboy",
+        "description": "Sombrero Toad Shirt",
+        "license": "CC BY-NC",
+        "copyright": "CC BY-NC",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8021770715713501,
+              1.4424829483032227,
+              1.134963870048523
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -45,8 +123,8 @@
   "files": [
     {
       "path": "Toad/Source/Toad.blend",
-      "size_in_bytes": 140323,
-      "hash": "SHA256:5b9cf5c1ca788d8c11f4efb3b9916933eba8b2fec678563ee949eb44278a6e4e",
+      "size_in_bytes": 180501,
+      "hash": "SHA256:f8b7e70f82d408fac38c776ca1cc00e3efba80bcb7d5b0e41156001d54c1ced9",
       "blender_version": "5.2.45"
     }
   ]

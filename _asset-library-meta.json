@@ -2,13 +2,13 @@
   "api_versions": {
     "v1": {
       "url": "_v1/asset-index.json",
-      "hash": "SHA256:4f5c9e8d0a490c309b0e2f9d17a1e47661bb36001bc8e9ffa43132fc666cdc6a"
+      "hash": "SHA256:13f18625198269490d305a589829b9a9638dc35ade757a80c15f34db61382250"
     }
   },
-  "name": "Your Asset Library",
+  "name": "My Asset Library",
   "contact": {
-    "name": "Your Name",
-    "url": "https://example.org/",
-    "email": "example@example.org"
+    "name": "BlacBoy aka SpikedSpartan",
+    "url": "https://blacboy.github.io/3D_Portfolio/",
+    "email": "blacboy@protonmail.com"
   }
 }
