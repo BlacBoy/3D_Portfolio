@@ -1,7 +1,17 @@
 {
-  "asset_count": 5,
-  "file_count": 1,
+  "asset_count": 13,
+  "file_count": 2,
   "assets": [
+    {
+      "name": "Heart glasses",
+      "id_type": "OBJECT",
+      "files": [
+        "Toad/Source/assets/models/heart-glasses_0196c8a7-30cd-4068-8fd9-230a8c53596e/heart-glasses_2K_b49a6db0-5d2f-4a9e-9530-0e10c98e077f.blend"
+      ],
+      "bl_versions": {
+        "min": "5.0"
+      }
+    },
     {
       "name": "Toad_Material",
       "id_type": "MATERIAL",
@@ -27,6 +37,90 @@
         "description": "Sombrero Toad's Material",
         "license": "CC BY-NC",
         "copyright": "CC BY-NC"
+      }
+    },
+    {
+      "name": "Aviator Glasses",
+      "id_type": "OBJECT",
+      "files": [
+        "Toad/Source/Toad.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.1632283627986908,
+              0.13202519714832306,
+              0.05092640593647957
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Blue Glasses",
+      "id_type": "OBJECT",
+      "files": [
+        "Toad/Source/Toad.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      }
+    },
+    {
+      "name": "Heart glasses",
+      "id_type": "OBJECT",
+      "files": [
+        "Toad/Source/Toad.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      }
+    },
+    {
+      "name": "Heart glasses.001",
+      "id_type": "OBJECT",
+      "files": [
+        "Toad/Source/Toad.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      }
+    },
+    {
+      "name": "Heart glasses.002",
+      "id_type": "OBJECT",
+      "files": [
+        "Toad/Source/Toad.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      }
+    },
+    {
+      "name": "Heart glasses.003",
+      "id_type": "OBJECT",
+      "files": [
+        "Toad/Source/Toad.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      }
+    },
+    {
+      "name": "Sun Glasses",
+      "id_type": "OBJECT",
+      "files": [
+        "Toad/Source/Toad.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
       }
     },
     {
@@ -189,9 +283,15 @@
   "files": [
     {
       "path": "Toad/Source/Toad.blend",
-      "size_in_bytes": 1077525,
-      "hash": "SHA256:47711e7100f765713626c200e28f82bfa729d94e21a1fabb98e92b13a8032f1e",
+      "size_in_bytes": 4667991,
+      "hash": "SHA256:bd62cf79fd76626af8c53ee98a5bc6ae66f6b8080554b27c4cc9109491aa2ec6",
       "blender_version": "5.2.45"
+    },
+    {
+      "path": "Toad/Source/assets/models/heart-glasses_0196c8a7-30cd-4068-8fd9-230a8c53596e/heart-glasses_2K_b49a6db0-5d2f-4a9e-9530-0e10c98e077f.blend",
+      "size_in_bytes": 1018566,
+      "hash": "SHA256:ac39979cacea7f99b066f68f4dd01aaafa65222cb5d29dc457ac22470457c97a",
+      "blender_version": "5.0.119"
     }
   ]
 }
