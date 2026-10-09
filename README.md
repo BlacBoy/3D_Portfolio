@@ -6,7 +6,7 @@ Dedicated to creating stylized 3D work, hard-surface and creature studies, and a
 
 ## About
 
-I am a 3D artist exploring form, mood, and visual storytelling through sculpting, texturing, and asset development. This collection reflects my ongoing practice across concept-driven models, material exploration, and portfolio presentation.
+I am a 3D artist exploring visual storytelling through box-modelling, texturing, and asset development. This collection reflects my ongoing practice across concept-driven models, material exploration, and portfolio presentation.
 
 The repo acts as both a creative archive and a visual résumé of selected work, showcasing project progression and the thinking behind each design.
 
