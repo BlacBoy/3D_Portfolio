@@ -1,7 +1,46 @@
 {
-  "asset_count": 13,
-  "file_count": 2,
+  "asset_count": 14,
+  "file_count": 3,
   "assets": [
+    {
+      "name": "Deep Diver I",
+      "id_type": "OBJECT",
+      "files": [
+        "Submersible/Source/Sub_DD.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Submersible/Source/Sub_DD_thumbnails/Object/deep-diver-i.webp",
+        "hash": "SHA256:531ba5aad95628675de34286ea060b3bc16c02d1cc6f3e09494e7660a1763247"
+      },
+      "meta": {
+        "tags": [
+          "Old Rugged Imaginarium",
+          "Spikedspartan",
+          "BlacBoy",
+          "Submersible",
+          "Okun"
+        ],
+        "author": "spikedspartan aka blacboy",
+        "description": "Submersible",
+        "license": "CC BY-NC",
+        "copyright": "CC BY-NC",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.130000114440918,
+              6.0,
+              4.690000057220459
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
     {
       "name": "Heart glasses",
       "id_type": "OBJECT",
@@ -282,9 +321,15 @@
   ],
   "files": [
     {
+      "path": "Submersible/Source/Sub_DD.blend",
+      "size_in_bytes": 109900,
+      "hash": "SHA256:af3fb8e916b8527d0505624d7ab45200f2615dd7743a48db71f1c0da4e959c92",
+      "blender_version": "5.2.45"
+    },
+    {
       "path": "Toad/Source/Toad.blend",
-      "size_in_bytes": 4268056,
-      "hash": "SHA256:09039fa88865c7d4bc8abf590afb468356891b769e8909b9d5632d8e0e23f4ad",
+      "size_in_bytes": 4266475,
+      "hash": "SHA256:0a289b825b44ff9d6706182ef710811ad1bedc4ea08ea049a158b94b2b43ec6d",
       "blender_version": "5.2.45"
     },
     {
